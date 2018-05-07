@@ -23,6 +23,9 @@ Interviews are classified according to a **descendant chronological order**.
 
 | GUEST | DESCRIPTION | PEERTUBE | YOUTUBE |
 | :---: | :---------: | :------: | :-----: |
+| **Artem Studennikov** | _Ambassade de Russie, espions, guerre froide sans filtre_ | [Link](https://thinkerview.video/videos/watch/3de7ef38-b436-456c-a6fc-268c07a54f4d) | [Link](https://www.youtube.com/watch?v=-iiXPA6Ux2Q) |
+| **Delamarche, Gave, Sabatier** | _Géopolitique, macroéconomie sans filtre_ | [Link](https://thinkerview.video/videos/watch/39851fcd-ac55-4c7c-993a-e878f91dcf68) | [Link](https://www.youtube.com/watch?v=oshQeyarrY8) |
+| **Natacha Polony** | _Journalistes et médias sous contrôles ?_ | [Link](https://thinkerview.video/videos/watch/e878fe10-dd38-458d-b7e7-59a44148dc49) | [Link](https://www.youtube.com/watch?v=47mqPCR5dI8) |
 | **Pablo Servigne** | _Effondrement de la civilisation ?_ | [Link](https://thinkerview.video/videos/watch/36f87fd2-3976-4c24-bd25-0e33ab5fdb7b) | [Link](https://www.youtube.com/watch?v=5xziAeW7l6w) |
 | **Idriss Aberkane** | _∅_ | [Link](https://thinkerview.video/videos/watch/d7043e51-c931-44e2-9b26-f74c15fa9497) | [Link](https://www.youtube.com/watch?v=NrQ0dSusGrQ) |
 | **Jean-Pierre Canet** & **David Koubbi** | _Journalistes et liberté d'expression en danger ?_ | [Link](https://thinkerview.video/videos/watch/c5546e88-3af9-46f8-8c2b-04e9d0bd3307) | [Link](https://www.youtube.com/watch?v=vYzP5544K20) |
