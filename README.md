@@ -23,6 +23,8 @@ Interviews are classified according to a **descendant chronological order**.
 
 | GUEST | DESCRIPTION | PEERTUBE | YOUTUBE |
 | :---: | :---------: | :------: | :-----: |
+| **Antoine Champagne** & **Olivier Laurelli (@bluetouff)** | _Surveillance, Hacker et Journaliste_ | [Link](https://thinkerview.video/videos/watch/a2862a4b-6eb8-4a6e-83d2-684db6ca65d3) | [Link](https://www.youtube.com/watch?v=d4MiF4AWtsw) |
+| **François Ruffin** | _Journaliste VS Politique ?_ | [Link](https://thinkerview.video/videos/watch/32fcd6b4-4559-4c63-9f38-59d90a874d2b) | [Link](https://www.youtube.com/watch?v=g0je4ji8o1M) |
 | **Alain Deneault** | _Le langage au service des puissants ?_ | [Link](https://thinkerview.video/videos/watch/d5bf10ec-55c3-4ac8-aad9-6e4b492fe951) | [Link](https://www.youtube.com/watch?v=IBdj4Z0FtZU) |
 | **Artem Studennikov** | _Ambassade de Russie, espions, guerre froide sans filtre_ | [Link](https://thinkerview.video/videos/watch/3de7ef38-b436-456c-a6fc-268c07a54f4d) | [Link](https://www.youtube.com/watch?v=-iiXPA6Ux2Q) |
 | **Delamarche, Gave, Sabatier** | _Géopolitique, macroéconomie sans filtre_ | [Link](https://thinkerview.video/videos/watch/39851fcd-ac55-4c7c-993a-e878f91dcf68) | [Link](https://www.youtube.com/watch?v=oshQeyarrY8) |
