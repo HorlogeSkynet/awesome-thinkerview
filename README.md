@@ -23,6 +23,8 @@ Interviews are classified according to a **descendant chronological order**.
 
 | GUEST | DESCRIPTION | PEERTUBE | YOUTUBE |
 | :---: | :---------: | :------: | :-----: |
+| **Isabelle ATTARD** | _Ex-députée écolo : sans langue de bois ?_ | [Link](https://thinkerview.video/videos/watch/ba9ba9dd-f5cd-4cb2-96b5-e7c4c44abf02) | [Link](https://www.youtube.com/watch?v=lMJbD7Yjfuc) |
+| **Aurélien BARRAU** | _Quand la Science appelle à l'aide pour l'humanité ?_ | [Link](https://thinkerview.video/videos/watch/b7a2788a-677a-4af5-9863-e38c64dafd43) | [Link](https://www.youtube.com/watch?v=XO4q9oVrWWw) |
 | **Antoine CHAMPAGNE** & **Olivier LAURELLI (@bluetouff)** | _Surveillance, Hacker et Journaliste_ | [Link](https://thinkerview.video/videos/watch/a2862a4b-6eb8-4a6e-83d2-684db6ca65d3) | [Link](https://www.youtube.com/watch?v=d4MiF4AWtsw) |
 | **François RUFFIN** | _Journaliste VS Politique ?_ | [Link](https://thinkerview.video/videos/watch/32fcd6b4-4559-4c63-9f38-59d90a874d2b) | [Link](https://www.youtube.com/watch?v=g0je4ji8o1M) |
 | **Alain DENEAULT** | _Le langage au service des puissants ?_ | [Link](https://thinkerview.video/videos/watch/d5bf10ec-55c3-4ac8-aad9-6e4b492fe951) | [Link](https://www.youtube.com/watch?v=IBdj4Z0FtZU) |
