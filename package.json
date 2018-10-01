@@ -1,0 +1,30 @@
+{
+	"name": "awesome-thinkerview",
+	"version": "0.0.1",
+	"description": "A curated list of the \"best\" Thinkerview interviews",
+	"license": "CC0-1.0",
+	"repository": "HorlogeSkynet/awesome-thinkerview",
+	"contributors": [
+		{
+			"name": "Damien CADIOU"
+		},
+		{
+			"name": "Samuel FORESTIER",
+			"email": "dev@samuel.domains",
+			"url": "https:/blog.samuel.domains/"
+		}
+	],
+	"keywords": [
+		"thinkerview",
+		"think-tank",
+		"awesome-list",
+		"awesome",
+		"interview"
+	],
+	"scripts": {
+		"test": "awesome-lint"
+	},
+	"devDependencies": {
+		"awesome-lint": "*"
+	}
+}
