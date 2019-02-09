@@ -11,7 +11,7 @@
 
 ## Introduction
 
-There are plenty of interview for now, but not all of them are _that_ interesting. Let's regroup the best ones here then !
+There are plenty of interviews for now, but not all of them are _that_ interesting. Let's regroup the best ones here then !
 
 Feel free to **contribute** with [pull requests](https://github.com/HorlogeSkynet/awesome-thinkerview/pulls), or **discuss existing or missing interviews** with [issues](https://github.com/HorlogeSkynet/awesome-thinkerview/issues/new) :wink:
 
