@@ -80,5 +80,4 @@ The **ideas presented above belong to their respective owners**, and are only pr
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors have waived all copyright and
-related or neighboring rights to this work.
+To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
