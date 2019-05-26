@@ -25,6 +25,6 @@
 		"test": "awesome-lint"
 	},
 	"devDependencies": {
-		"awesome-lint": "*"
+		"awesome-lint": "^0.10.0"
 	}
 }
