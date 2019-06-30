@@ -63,7 +63,7 @@ Interviews are classified according to a **descendant chronological order**.
 | **Olivier DELAMARCHE**                                           | _Analyste financier_                                               | [Link](https://thinkerview.video/videos/watch/66bf8961-9ea9-4194-82f8-68d2bf61d14f) | [Link](https://www.youtube.com/watch?v=W6xoUHRHkFc) |
 | **Étienne CHOUARD**                                              | _∅_                                                                | [Link](https://thinkerview.video/videos/watch/f8fe3e5e-d2ef-487a-a89c-6cef53c0e652) | [Link](https://www.youtube.com/watch?v=DROqR_7EKvs) |
 | **Benjamin BAYART**                                              | _Grand Sorcier de l'Internet option vie privée_                    | [Link](https://thinkerview.video/videos/watch/c2e47e17-806a-4b9d-a596-81e46de8ec32) | [Link](https://www.youtube.com/watch?v=VBsLSfPs2PE) |
-| **Juan BRANCO**                                                  | _Avocat de Wikileaks_                                              | [Link](https://thinkerview.video/videos/watch/ba346955-5305-4f66-81b5-33a393347441) | [Link](https://youtube.com/watch?v=uBaAvHxdShw)     |
+| **Juan BRANCO**                                                  | _Avocat de Wikileaks_                                              | [Link](https://thinkerview.video/videos/watch/ba346955-5305-4f66-81b5-33a393347441) | [Link](https://www.youtube.com/watch?v=uBaAvHxdShw) |
 | **DATAGUEULE**                                                   | _∅_                                                                | [Link](https://thinkerview.video/videos/watch/b308b8d5-027e-4e19-bc42-18238f52c628) | [Link](https://www.youtube.com/watch?v=507HStKtw-I) |
 
 ## Authors
