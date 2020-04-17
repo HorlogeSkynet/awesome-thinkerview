@@ -22,7 +22,8 @@
 		"interview"
 	],
 	"scripts": {
-		"test": "awesome-lint"
+		"test": "awesome-lint",
+		"bump": "git tag \"$(date -u +%Y.%m_${MICRO:-1})\""
 	},
 	"devDependencies": {
 		"awesome-lint": "^0.12.1"

@@ -8,6 +8,7 @@
 - [Interviews](#interviews)
 - [Authors](#authors)
 - [Disclaimer](#disclaimer)
+- [Project Meta](#project-meta)
 
 ## Introduction
 
@@ -89,8 +90,22 @@ _Thinkerview_ is a **registered name** and **belongs to its respective owners**.
 
 The **ideas presented above belong to their respective owners**, and are only proposed for **educational and informational purposes**.
 
-## License
+## Project Meta
+
+### License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
+
+### Versioning
+
+This project follows a [CalVer](https://calver.org/) versioning scheme (`YYYY.0M_MICRO`).
+
+Within a [Node.js](https://nodejs.org/) environment, it's possible to draft a new version by running `npm run bump`.  
+If you want to publish a _fix_ for the current version, please bump the micro segment this way : `MICRO=2 npm run bump`.
+
+### Linting / Continuous Integration
+
+Automatic linting is performed with [awesome-lint](https://github.com/sindresorhus/awesome-lint).  
+Please try to run it locally before submitting any changes : `npm run test`.
