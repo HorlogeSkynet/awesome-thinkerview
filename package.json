@@ -1,6 +1,5 @@
 {
 	"name": "awesome-thinkerview",
-	"version": "0.0.1",
 	"description": "A curated list of the \"best\" Thinkerview interviews",
 	"license": "CC0-1.0",
 	"repository": "HorlogeSkynet/awesome-thinkerview",
@@ -10,7 +9,7 @@
 		},
 		{
 			"name": "Samuel FORESTIER",
-			"email": "dev@samuel.domains",
+			"email": "dev+thinkerview@samuel.domains",
 			"url": "https:/blog.samuel.domains/"
 		}
 	],
@@ -22,9 +21,11 @@
 		"interview"
 	],
 	"scripts": {
-		"test": "awesome-lint"
+		"test": "awesome-lint",
+		"bump": "git tag \"$(date -u +%Y.%m_${MICRO:-1})\""
 	},
 	"devDependencies": {
 		"awesome-lint": "^0.12.1"
-	}
+	},
+	"private": true
 }
