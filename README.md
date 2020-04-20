@@ -1,4 +1,4 @@
-# Awesome Thinkerview [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Thinkerview [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re/)
 
 > A curated list of the "best" [Thinkerview](https://thinkerview.com/) interviews
 
