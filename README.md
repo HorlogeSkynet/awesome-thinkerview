@@ -7,6 +7,9 @@
 	<a href="#versioning"><img src="https://img.shields.io/badge/CALVER-YYYY.0M__MICRO-informational?style=for-the-badge"></a>
 </p>
 
+| [![Thinkerview logo](https://i.imgur.com/klcK8vF.png)](https://thinkerview.com/) |
+| :------------------------------------------------------------------------------: |
+
 ## Contents
 
 - [Introduction](#introduction)
