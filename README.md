@@ -3,7 +3,7 @@
 > A curated list of the "best" [Thinkerview](https://thinkerview.com/) interviews
 
 <p align="center">
-	<a href="https://github.com/HorlogeSkynet/awesome-thinkerview/releases/latest"><img src="https://img.shields.io/github/release/HorlogeSkynet/awesome-thinkerview.svg?style=for-the-badge"></a>
+	<a href="https://github.com/HorlogeSkynet/awesome-thinkerview/releases/"><img src="https://img.shields.io/github/tag/HorlogeSkynet/awesome-thinkerview.svg?style=for-the-badge"></a>
 	<a href="#versioning"><img src="https://img.shields.io/badge/CALVER-YYYY.0M__MICRO-informational?style=for-the-badge"></a>
 </p>
 
