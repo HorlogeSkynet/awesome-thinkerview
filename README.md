@@ -3,9 +3,6 @@
 > A curated list of the "best" [Thinkerview](https://thinkerview.com/) interviews
 
 <p align="center">
-	<a href="https://github.com/HorlogeSkynet/awesome-thinkerview/releases/"><img src="https://img.shields.io/github/tag/HorlogeSkynet/awesome-thinkerview.svg?style=for-the-badge"></a>
-	<a href="#versioning"><img src="https://img.shields.io/badge/CALVER-YYYY.0M__MICRO-informational?style=for-the-badge"></a>
-	<br />
 	<a href="https://thinkerview.com/"><img src="https://i.imgur.com/klcK8vF.png"></a>
 </p>
 
@@ -105,14 +102,14 @@ The **ideas presented above belong to their respective owners**, and are only pr
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
 
-### Versioning
+### Versioning [![CalVer](https://img.shields.io/badge/CALVER-YYYY.0M__MICRO-informational?style=flat-square)](https://calver.org/)
 
-This project follows a [CalVer](https://calver.org/) versioning scheme (`YYYY.0M_MICRO`).
+This project follows a [CalVer](https://calver.org/) versioning scheme.
 
 Within a [Node.js](https://nodejs.org/) environment, it's possible to draft a new version by running `npm run bump`.  
 If you want to publish a _fix_ for the current version, please bump the micro segment this way : `MICRO=2 npm run bump`.
 
-### Linting / Continuous Integration
+### Linting / Continuous Integration [![CI](https://img.shields.io/travis/HorlogeSkynet/awesome-thinkerview/master.svg?style=flat-square)](https://travis-ci.org/github/HorlogeSkynet/awesome-thinkerview)
 
 Automatic linting is performed with [awesome-lint](https://github.com/sindresorhus/awesome-lint).  
 Please try to run it locally before submitting any changes : `npm run test`.
