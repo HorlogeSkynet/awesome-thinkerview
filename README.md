@@ -96,7 +96,7 @@ The **ideas presented above belong to their respective owners**, and are only pr
 
 ## Project Meta
 
-### License [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+### License [![CC0](https://img.shields.io/github/license/HorlogeSkynet/awesome-thinkerview?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
 
