@@ -102,7 +102,7 @@ The **ideas presented above belong to their respective owners**, and are only pr
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
 
-### Versioning [![CalVer](https://img.shields.io/badge/CALVER-YYYY.0M__MICRO-informational?style=flat-square)](https://calver.org/)
+### Versioning [![CalVer](https://img.shields.io/badge/CalVer-YYYY.0M__MICRO-informational?style=flat-square)](https://calver.org/)
 
 This project follows a [CalVer](https://calver.org/) versioning scheme.
 
