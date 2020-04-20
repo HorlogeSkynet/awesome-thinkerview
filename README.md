@@ -5,10 +5,9 @@
 <p align="center">
 	<a href="https://github.com/HorlogeSkynet/awesome-thinkerview/releases/"><img src="https://img.shields.io/github/tag/HorlogeSkynet/awesome-thinkerview.svg?style=for-the-badge"></a>
 	<a href="#versioning"><img src="https://img.shields.io/badge/CALVER-YYYY.0M__MICRO-informational?style=for-the-badge"></a>
+	<br />
+	<a href="https://thinkerview.com/"><img src="https://i.imgur.com/klcK8vF.png"></a>
 </p>
-
-| [![Thinkerview logo](https://i.imgur.com/klcK8vF.png)](https://thinkerview.com/) |
-| :------------------------------------------------------------------------------: |
 
 ## Contents
 
