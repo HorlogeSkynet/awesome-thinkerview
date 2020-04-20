@@ -109,6 +109,7 @@ This project follows a [CalVer](https://calver.org/) versioning scheme.
 Within a [Node.js](https://nodejs.org/) environment, it's possible to draft a new version by running `npm run bump`.  
 If you want to publish a _fix_ for the current version, please bump the micro segment this way : `MICRO=2 npm run bump`.
 
+<!--lint ignore awesome-no-ci-badge-->
 ### Linting / Continuous Integration [![CI](https://img.shields.io/travis/HorlogeSkynet/awesome-thinkerview/master.svg?style=flat-square)](https://travis-ci.org/github/HorlogeSkynet/awesome-thinkerview)
 
 Automatic linting is performed with [awesome-lint](https://github.com/sindresorhus/awesome-lint).  
