@@ -117,4 +117,4 @@ Automatic linting is performed against [awesome-lint](https://github.com/sindres
 Please try to run it locally before submitting any changes : `npm run test`.
 
 <!--lint ignore awesome-no-ci-badge-->
-[![CI](https://img.shields.io/travis/HorlogeSkynet/awesome-thinkerview/master.svg?style=flat-square)](https://travis-ci.org/github/HorlogeSkynet/awesome-thinkerview)
+[![CI](https://img.shields.io/travis/HorlogeSkynet/awesome-thinkerview/master.svg?label=Linting&style=flat-square)](https://travis-ci.org/github/HorlogeSkynet/awesome-thinkerview)
