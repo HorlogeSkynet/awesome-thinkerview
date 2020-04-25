@@ -96,11 +96,11 @@ _Thinkerview_ is a **registered name** and **belongs to its respective owners**.
 
 ## Project Meta
 
-### License | [![CC0](https://img.shields.io/github/license/HorlogeSkynet/awesome-thinkerview?color=informational&label=License&style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
+### License | [![CC0](https://img.shields.io/github/license/HorlogeSkynet/awesome-thinkerview?color=informational&label=License&style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
 
-### Versioning | [![CalVer](https://img.shields.io/badge/CalVer-YYYY.0M__MICRO-informational?style=flat-square)](https://calver.org/)
+### Versioning | [![CalVer](https://img.shields.io/badge/CalVer-YYYY.0M__MICRO-informational?style=for-the-badge)](https://calver.org/)
 
 This project follows a [CalVer](https://calver.org/) versioning scheme.
 
@@ -108,7 +108,7 @@ Within a [Node.js](https://nodejs.org/) environment, it's possible to draft a ne
 If you want to publish a _fix_ for the current version, you may bump the micro segment this way : `MICRO=2 npm run bump`.
 
 <!--lint ignore awesome-no-ci-badge-->
-### Linting / Continuous Integration | [![CI](https://img.shields.io/travis/HorlogeSkynet/awesome-thinkerview/master.svg?style=flat-square)](https://travis-ci.org/github/HorlogeSkynet/awesome-thinkerview)
+### Linting / Continuous Integration | [![CI](https://img.shields.io/travis/HorlogeSkynet/awesome-thinkerview/master.svg?style=for-the-badge)](https://travis-ci.org/github/HorlogeSkynet/awesome-thinkerview)
 
 Automatic linting is performed against [awesome-lint](https://github.com/sindresorhus/awesome-lint).  
 Please try to run it locally before submitting any changes : `npm run test`.
