@@ -25,7 +25,7 @@
 		"bump": "git tag \"$(date -u +%Y.%m_${MICRO:-1})\""
 	},
 	"devDependencies": {
-		"awesome-lint": "^0.12.1"
+		"awesome-lint": "^0.13.0"
 	},
 	"private": true
 }
