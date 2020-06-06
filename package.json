@@ -2,7 +2,8 @@
 	"name": "awesome-thinkerview",
 	"description": "A curated list of the \"best\" Thinkerview interviews",
 	"license": "CC0-1.0",
-	"repository": "HorlogeSkynet/awesome-thinkerview",
+	"repository": "github:HorlogeSkynet/awesome-thinkerview",
+	"homepage": "https://github.com/HorlogeSkynet/awesome-thinkerview#readme",
 	"contributors": [
 		{
 			"name": "Damien CADIOU"
