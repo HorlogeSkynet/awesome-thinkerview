@@ -2,9 +2,7 @@
 
 > A curated list of the "best" [Thinkerview](https://thinkerview.com/) interviews
 
-<p align="center">
-	<a href="https://thinkerview.com/"><img src="https://i.imgur.com/FrahlzR.png"></a>
-</p>
+<p align="center"><a href="https://thinkerview.com/"><img src="https://i.imgur.com/FrahlzR.png"></a></p>
 
 ## Contents
 
