@@ -2,9 +2,7 @@
 
 > A curated list of the "best" [Thinkerview](https://thinkerview.com/) interviews
 
-<p align="center">
-	<a href="https://thinkerview.com/"><img src="https://i.imgur.com/FrahlzR.png"></a>
-</p>
+<p align="center"><a href="https://thinkerview.com/"><img src="https://i.imgur.com/FrahlzR.png"></a></p>
 
 ## Contents
 
@@ -30,7 +28,9 @@ Feel free to contribute with [pull requests](https://github.com/HorlogeSkynet/aw
 | :--------------------------------------------------------------- | :--------------------------------------------------------------- | :---------------------------------------------------------------------------------: | :-------------------------------------------------: |
 | **Tariq KRIM** & **Bernard BENHAMOU**                            | Souveraineté numérique, la douche froide ?                       | [Link](https://thinkerview.video/videos/watch/a8f2a209-1a07-4493-a2aa-196ad11a5c7f) | [Link](https://www.youtube.com/watch?v=2iErDLlIlG4) |
 | **Michel ONFRAY**                                                | Où en est la France ?                                            | [Link](https://thinkerview.video/videos/watch/6d12d0c7-b7f7-4c99-9be6-628a75bfbb24) | [Link](https://www.youtube.com/watch?v=txl6l5ORhzo) |
-| **PHILIPPE DOUSTE-BLAZY**                                        | COVID-19, panique sociale, scientifique et politique ?           | [Link](https://thinkerview.video/videos/watch/a8d7cd1f-d994-4e3a-ad9d-f01b9e705e72) | [Link](https://www.youtube.com/watch?v=yAi_GKbpKUQ) |
+| **François-Xavier SELLERET** & **Pierre SABATIER**               | Solidité du système financier et des retraites ?                 | [Link](https://thinkerview.video/videos/watch/37194928-bd82-44ee-b1a6-a7e30ebceb28) | [Link](https://www.youtube.com/watch?v=NS8acSbI1Bs) |
+| **Isabelle DELANNOY**                                            | Perspectives alternatives ?                                      | [Link](https://thinkerview.video/videos/watch/f7d9845d-5d7c-4465-b8c8-c4716a3098a3) | [Link](https://www.youtube.com/watch?v=xQ3BoOCSdXE) |
+| **Philippe DOUSTE-BLAZY**                                        | COVID-19, panique sociale, scientifique et politique ?           | [Link](https://thinkerview.video/videos/watch/a8d7cd1f-d994-4e3a-ad9d-f01b9e705e72) | [Link](https://www.youtube.com/watch?v=yAi_GKbpKUQ) |
 | **Christian HARBULOT**                                           | COVID-19, Crise financière, Chine, Menace sur la France          | [Link](https://thinkerview.video/videos/watch/f48d4b99-bd5a-47e7-9b9b-373d22c6cbd3) | [Link](https://www.youtube.com/watch?v=QMgfIVYqZTM) |
 | **Virginie MARTIN**                                              | Les politiques, l'important c'est pas la chute ?                 | [Link](https://thinkerview.video/videos/watch/226f7856-e980-45c6-b2d0-c5197563918e) | [Link](https://www.youtube.com/watch?v=RgmLorXQpNM) |
 | **Delphine BATHO**                                               | La religion de la croissance économique ?                        | [Link](https://thinkerview.video/videos/watch/544b3ebc-ee92-4a43-8794-b22b248182b0) | [Link](https://www.youtube.com/watch?v=K_fsNDjhwks) |
