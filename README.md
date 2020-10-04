@@ -118,7 +118,7 @@ If you want to publish a _fix_ for the current version, you may bump the micro s
 
 ### Linting / Continuous Integration
 
-Automatic linting is performed against [awesome-lint](https://github.com/sindresorhus/awesome-lint) on [Travis](https://github.com/HorlogeSkynet/awesome-thinkerview/releases).  
+Automatic linting is performed against [awesome-lint](https://github.com/sindresorhus/awesome-lint) on [Travis](https://travis-ci.org/).  
 Please try to run it locally before submitting any changes : `npm run test`.
 
 <!--lint ignore awesome-no-ci-badge-->
