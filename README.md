@@ -101,7 +101,7 @@ _Thinkerview_ is a **registered name** and **belongs to its respective owners**.
 
 ## Project Meta
 
-### License
+### Licensing
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
 
