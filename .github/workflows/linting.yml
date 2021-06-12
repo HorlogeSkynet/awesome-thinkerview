@@ -16,5 +16,6 @@ jobs:
 
       - uses: actions/setup-node@v1
 
-      - run: npm ci
+      - run: npm config set package-lock false
+      - run: npm install
       - run: npm test
