@@ -152,4 +152,4 @@ If you want to publish a _fix_ for the current version, you may bump the micro s
 Automatic static linting is performed against [awesome-lint](https://github.com/sindresorhus/awesome-lint) on [GitHub Actions](https://github.com/features/actions).  
 Please try to run it locally before submitting any changes : `npm test`.
 
-[![CI](https://img.shields.io/github/workflow/status/HorlogeSkynet/awesome-thinkerview/Linting/master.svg?label=Linting&style=flat-square)](https://github.com/HorlogeSkynet/awesome-thinkerview/actions)
+[![CI](https://img.shields.io/github/actions/workflow/status/HorlogeSkynet/awesome-thinkerview/.github/workflows/linting.yml?branch=master&label=Linting&style=flat-square)](https://github.com/HorlogeSkynet/awesome-thinkerview/actions)
