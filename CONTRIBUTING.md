@@ -16,4 +16,4 @@ Ensure your changes adhere to the following guidelines :
 
 Thank you for your suggestions !
 
-> External contact : [dev+thinkerview@samuel.domains](mailto:dev+thinkerview@samuel.domains)
+> External contact : [samuel+dev@forestier.app](mailto:samuel+dev@forestier.app)
