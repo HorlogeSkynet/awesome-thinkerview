@@ -10,7 +10,6 @@
 - [Interviews](#interviews)
 - [Authors](#authors)
 - [Disclaimer](#disclaimer)
-- [Project Meta](#project-meta)
 
 ## Introduction
 
@@ -151,27 +150,3 @@ We **are not** part of the Thinkerview group.
 _Thinkerview_ is a **registered name** and **belongs to its respective owners**.
 
 **Ideas presented above belong to their respective owners** and are only proposed for **educational and informational purposes**.
-
-## Project Meta
-
-### Licensing
-
-To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
-
-[![CC0-1.0](https://img.shields.io/github/license/HorlogeSkynet/awesome-thinkerview?color=informational&label=License&style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-### Versioning
-
-This project follows a [CalVer](https://calver.org/) versioning scheme (`YYYY.0M_MICRO`).
-
-Within a [Node.js](https://nodejs.org/) environment, it's possible to draft a new version by running `npm run bump`.  
-If you want to publish a _fix_ for the current version, you may bump the micro segment this way : `MICRO=2 npm run bump`.
-
-[![Version](https://img.shields.io/github/v/tag/HorlogeSkynet/awesome-thinkerview?color=informational&label=Version&style=flat-square)](https://github.com/HorlogeSkynet/awesome-thinkerview/releases)
-
-### Linting / Continuous Integration
-
-Automatic static linting is performed against [awesome-lint](https://github.com/sindresorhus/awesome-lint) on [GitHub Actions](https://github.com/features/actions).  
-Please try to run it locally before submitting any changes : `npm test`.
-
-[![CI](https://img.shields.io/github/actions/workflow/status/HorlogeSkynet/awesome-thinkerview/.github/workflows/linting.yml?branch=master&label=Linting&style=flat-square)](https://github.com/HorlogeSkynet/awesome-thinkerview/actions)

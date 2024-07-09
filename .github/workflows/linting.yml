@@ -10,9 +10,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-        with:
-          # Required for `awesome-git-repo-age` rule.
-          fetch-depth: 0
 
       - uses: actions/setup-node@v4
 
