@@ -23,6 +23,7 @@ Feel free to contribute with [pull requests](https://github.com/HorlogeSkynet/aw
 
 > Interviews are listed in descendant chronological order.
 
+<!--lint disable table-cell-padding-->
 | Guest(s)                                                         | Description                                                         |                            PeerTube                             |                       YouTube                       |
 | :--------------------------------------------------------------- | :------------------------------------------------------------------ | :-------------------------------------------------------------: | :-------------------------------------------------: |
 | **Renaud PIARROUX**                                              | Géopolitique des épidémies                                          | Upload currently missing                                        | [Link](https://www.youtube.com/watch?v=eRA5EdgvTQg) |
@@ -154,6 +155,7 @@ Feel free to contribute with [pull requests](https://github.com/HorlogeSkynet/aw
 | **Benjamin BAYART**                                              | Grand Sorcier de l'Internet option vie privée                       | [Link](https://videos.thinkerview.com/w/35njqAiY5hbZUYDrTNTfpC) | [Link](https://www.youtube.com/watch?v=VBsLSfPs2PE) |
 | **Juan BRANCO**                                                  | Avocat de Wikileaks                                                 | [Link](https://videos.thinkerview.com/w/i45hx9SAD3jUydtQEjphCn) | [Link](https://www.youtube.com/watch?v=uBaAvHxdShw) |
 | **DATAGUEULE**                                                   | N/A                                                                 | [Link](https://videos.thinkerview.com/w/1yBye7cW6gafCy8XRYSUeo) | [Link](https://www.youtube.com/watch?v=507HStKtw-I) |
+<!--lint enable table-cell-padding-->
 
 ## Authors
 
